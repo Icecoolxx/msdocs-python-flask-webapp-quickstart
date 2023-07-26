@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'firstWapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19A935EB61684AD3A9260C3E7A39AF26 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0120F284BEDE413D9B489394E7BB0FC4 }}
